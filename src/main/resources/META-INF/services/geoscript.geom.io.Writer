@@ -1,0 +1,13 @@
+geoscript.geom.io.GeobufWriter
+geoscript.geom.io.GeoJSONWriter
+geoscript.geom.io.GeoRSSWriter
+geoscript.geom.io.Gml2Writer
+geoscript.geom.io.Gml3Writer
+geoscript.geom.io.GpxWriter
+geoscript.geom.io.KmlWriter
+geoscript.geom.io.WkbWriter
+geoscript.geom.io.WktWriter
+geoscript.geom.io.GeoPackageWriter
+geoscript.geom.io.GooglePolylineEncoder
+geoscript.geom.io.YamlWriter
+geoscript.geom.io.TWkbWriter
