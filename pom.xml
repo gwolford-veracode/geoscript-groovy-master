@@ -612,6 +612,10 @@
                 <enabled>false</enabled>
             </releases>
         </repository>
+        <repository>
+                 <id>osgeo-releases</id>
+                 <url>https://repo.osgeo.org/repository/release/</url>
+        </repository>
     </repositories>
     <licenses>
         <license>
