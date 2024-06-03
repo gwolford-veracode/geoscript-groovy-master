@@ -15,11 +15,10 @@ Building GeoScript Groovy is quite easy.  You will need to have git, Java, Maven
 
 Use git to clone the repository::
 
-    git clone git://github.com/jericks/geoscript-groovy.git
-
+    git clone git://github.com/gwolford-veracode/geoscript-groovy-master.git
 Use maven to build, test, and package::
 
-    mvn clean install
+    mvn clean install -DskipTests
 
 The distribution can be found in target/geoscript-groovy-${version}-app/geoscript-groovy-${version}.
 
