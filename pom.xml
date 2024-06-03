@@ -374,6 +374,9 @@
                 <configuration>
                     <source>1.8</source>
                     <target>1.8</target>
+                    <compilerArguments>
+                             <g>lines,vars,source</g>
+                    </compilerArguments>
                     <compilerId>groovy-eclipse-compiler</compilerId>
                 </configuration>
                 <dependencies>
